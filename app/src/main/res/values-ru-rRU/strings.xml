@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домашняя работа # 1</string>
+    <string name="hint_text">Введите ваше сообщение...</string>
+    <string name="button_second_activity">Отправить на почту</string>
+    <string name="preview">Просмотр</string>
+    <string name="hello">Привет,Андроид Академия,МСК!</string>
+    <string name="no_email_app">Email приложения не найдены</string>
+</resources>

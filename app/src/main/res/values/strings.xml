@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home Work # 1</string>
+    <string name="hint_text">Type your message here...</string>
+    <string name="button_second_activity">EMAIL</string>
+    <string name="preview">Preview</string>
+    <string name="hello">Hello,android academy,MSK!</string>
+    <string name="no_email_app">No Email app found</string>
+</resources>
